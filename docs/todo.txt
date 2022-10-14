@@ -1,0 +1,10 @@
+look for and process outliers in these columns
+
+time_in_hospital             int64
+num_lab_procedures           int64
+num_procedures               int64
+num_medications              int64
+number_outpatient            int64
+number_emergency             int64
+number_inpatient             int64
+number_diagnoses             int64
