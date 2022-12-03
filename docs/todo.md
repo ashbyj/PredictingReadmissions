@@ -25,3 +25,7 @@ ndc? pharm class/subclas?
 # 18.3.1 - modeling notebook
 # 20.4.1 - report
 # 20.4.2 - presentation
+
+
+
+add in the assumptions made about the data to justify work with the demographics as well as good practice.
