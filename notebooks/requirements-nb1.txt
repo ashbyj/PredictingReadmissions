@@ -33,6 +33,7 @@ fastjsonschema==2.16.2
 flatbuffers==23.5.26
 fonttools==4.25.0
 gast==0.4.0
+gensim==4.3.0
 google-auth==2.22.0
 google-auth-oauthlib==1.0.0
 google-pasta==0.2.0
@@ -121,6 +122,7 @@ protobuf==4.23.4
 psutil==5.9.0
 ptyprocess==0.7.0
 pure-eval==0.2.2
+pyarrow==11.0.0
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
 pycparser==2.21
@@ -151,6 +153,7 @@ Send2Trash==1.8.0
 setuptools==67.8.0
 sip==6.6.2
 six==1.16.0
+smart-open==5.2.1
 sniffio==1.2.0
 soupsieve==2.4
 SQLAlchemy==1.4.39
